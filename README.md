@@ -1,3 +1,8 @@
+6. Real-Time Chat Application (WhatsApp-like System)
+Business Context
+A messaging platform is required to support real-time one-to-one and group communication with message delivery tracking.
+
+
 OUTPUT:
 
 <img width="984" height="581" alt="image" src="https://github.com/user-attachments/assets/d7883a2f-8006-41c5-a09f-7de29c413555" />
